@@ -26,7 +26,7 @@ const useCredentials = () => {
     // Prepare the appropiate accessToken & apiBaseUrl to access your datasets and account at Workspace
     apiVersion: API_VERSIONS.V3,
     accessToken:
-      "eyJhbGciOiJIUzI1NiJ9.eyJhIjoiYWNfNDd1dW5tZWciLCJqdGkiOiJkMDExNTlmYyJ9.OHB-o6t2PhtWF5dnBBTZ4CsjeGJVnPw6HTMpqTNc4Rg", // frontend-team account
+      "YOUR_CARTO_ACCESS_TOKEN", // frontend-team account
     apiBaseUrl: "https://gcp-us-east1.api.carto.com",
   };
 
